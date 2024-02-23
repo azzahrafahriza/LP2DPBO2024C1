@@ -15,30 +15,30 @@ Desain Program dibagi menjadi 4 class yaitu product, clothing, shirt, dan proses
 ### Desain algoritma menggunakan UML 
 ![image](https://github.com/azzahrafahriza/LP2DPBO2024C1/assets/101120742/c27a41d9-cc7a-4607-8ad2-1f9ae61386ad)
 
-#### Product
+### Product
 Terdapat 4 atribut pada kelas shrt dan juga method Setter dan Getter untuk tiap atribut
 
 idProduct (string)
-Nama (string)
-Brand (string)
-Price (string)
+- Nama (string)
+- Brand (string)
+- Price (string)
 
 
-#### clothing(child dari class product)
+### clothing(child dari class product)
 Terdapat 3 atribut pada kelas Process dan juga method setter dan getter untuk tiap atribut
 
-size (string)
-material (string)
-gender (string)
+- size (string)
+- material (string)
+- gender (string)
 
 
-#### shirt (child dari class clothing)
+### shirt (child dari class clothing)
 Terdapat 2 atribut pada kelas Process dan juga method setter dan getter untuk tiap atribut
 
-color (string)
-sleeve type (string)
+- color (string)
+- sleeve type (string)
 
-#### Proses
+### Proses
 Terdapat 2 Method pada kelas proses
 
 Tambah -> Untuk menambahkan data ke dalam list
